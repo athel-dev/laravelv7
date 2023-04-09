@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <div class="h1">
+                    Nuevo texto
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
